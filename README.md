@@ -5,7 +5,7 @@ A simple React + TS based UI template created with shadcn.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/karthirock98/chatgpt-ui/blob/main/public/screenshot.PNG)
+![App Screenshot](https://github.com/karthirock98/chatgpt-ui/blob/master/public/screenshot.PNG)
 
 ## Features
 
